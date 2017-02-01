@@ -1,0 +1,226 @@
+body {
+  font-family: 'Raleway';
+  text-align: center;
+}
+
+nav {
+  background-color: #92e0e5;
+  color: white;
+  width: 100%;
+  height: 50px;
+
+}
+
+header{
+  width:100%;
+  text-align: center;
+  background-image: url("images/park.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 0px;
+  padding-top: 25px;
+  padding-bottom: 80px;
+  max-height: 410px;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+h6 {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+
+
+li {
+  display: inline-block;
+padding-left: 4px;
+}
+
+ul {
+  float: right;
+  width: 150px;
+  margin-right: 8px;
+}
+footer {
+  background-color: #3F8DA7;
+  height: 150px;
+  width: 100%;
+  padding-top: 5px;
+
+}
+
+#facts {
+  padding-right: 10px;
+}
+
+#top-links {
+  float:right;
+  text-align: right;
+  display: inline-block;
+}
+
+#top-dog {
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-color: #3f8da7;
+  border: 5px solid #3f8da7;
+
+}
+
+#top-button {
+  border: solid;
+  border-radius: 2px;
+  border-color: #3f8da7;
+  background-color: white;
+  font-family: 'Raleway';
+  font-size: 14px;
+  color: #3f8da7;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+#dog-icon {
+float: left;
+margin: 4px 0px 0px 4px;
+}
+
+#three-dogs {
+margin-left: auto;
+margin-right: auto;
+height: 400px;
+width: 100%;
+align-items: center;
+border: 1px solid magenta;
+
+}
+
+#How-dog {
+  width: 320px;
+  text-align: center;
+  display: inline-block;
+  border: 1px solid magenta;
+  margin-right: 5px;
+  vertical-align: top;
+  font-weight: bold;
+}
+
+
+
+#What-dog {
+  width: 352px;
+  text-align: center;
+  display: inline-block;
+  border: 1px solid magenta;
+  margin-right: 5px;
+  vertical-align: top;
+  font-weight: bold;
+
+}
+
+#Facts-dog {
+  width: 330px;
+  text-align: center;
+  display: inline-block;
+  border: 1px solid magenta;
+  vertical-align: top;
+  font-weight: bold;
+}
+#How-button{
+  border: solid;
+  border-radius: 2px;
+  border-color: #3f8da7;
+  background-color: white;
+  font-family: 'Raleway';
+  font-size: 14px;
+  color: #3f8da7;
+  font-weight: bold;
+}
+
+#What-button{
+  border: solid;
+  border-radius: 2px;
+  border-color: #3f8da7;
+  background-color: white;
+  font-family: 'Raleway';
+  font-size: 14px;
+  color: #3f8da7;
+  font-weight: bold;
+}
+
+#facts-button{
+  border: solid;
+  border-radius: 2px;
+  border-color: #3f8da7;
+  background-color: white;
+  font-family: 'Raleway';
+  font-size: 14px;
+  color: #3f8da7;
+  font-weight: bold;
+}
+#orange-dog {
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#white-dog {
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#green-dog {
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#links {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  float: bottom;
+  color: white;
+  margin-top: -4px;
+
+}
+
+#learn {
+  margin-top: 4px;
+
+}
+
+#facebook {
+  margin-right: 40px;
+}
+
+#twitter {
+  margin-right: 40px;
+}
+
+#instagram {
+  margin-right: 40px;
+}
+
+#linked {
+  margin-right: 40px;
+}
+
+#github {
+  margin-top: 20px;
+  display: block;
+  color: white;
+
+}
